@@ -72,8 +72,12 @@ const ThingPage = ({
         <div className='f4 gray pa2'>
           Address
         </div>
+
         <div className='pre'>
           {address}
+        </div>
+        <div className="f5 moon-gray underline pa5">
+          <a href='https://codesandbox.io/s/divine-browser-iwt8o' > draggable model tea urn </a>
         </div>
       </div>
     </div>
